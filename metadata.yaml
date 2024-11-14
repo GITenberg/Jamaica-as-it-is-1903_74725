@@ -1,0 +1,27 @@
+_repo: Jamaica-as-it-is-1903_74725
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pullen-Burry, Bessie
+    gutenberg_agent_id: '57618'
+    url: http://www.gutenberg.org/2009/agents/57618
+description: ''
+gutenberg_issued: '2024-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74725'
+language: en
+pgterms:marc904: https://archive.org/details/jamaicaasitis19000pulluoft
+pgterms:marc905: 20231016122134pullenburr
+pgterms:marc906: '1903'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bT. F. Unwin, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Jamaica as it is, 1903
+url: http://www.gutenberg.org/ebooks/74725
