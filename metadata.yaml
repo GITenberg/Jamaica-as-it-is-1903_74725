@@ -1,11 +1,16 @@
 _repo: Jamaica-as-it-is-1903_74725
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74725-h/images/cover.jpg
 creator:
   author:
     agent_name: Pullen-Burry, Bessie
     gutenberg_agent_id: '57618'
     url: http://www.gutenberg.org/2009/agents/57618
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74725#Jamaica-as-it-is-1903
 gutenberg_issued: '2024-11-11'
 gutenberg_type: Text
 identifiers:
